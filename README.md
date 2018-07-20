@@ -1,5 +1,5 @@
 
-ProjectURL: www.yelpanalytics.eu5.org
+ProjectURL: www.amulyachennaboyena.com
 
 ABSTRACT
 TITLE: YelpAnalytics
